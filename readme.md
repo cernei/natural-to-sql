@@ -1,4 +1,5 @@
-Purpose of this tool to make an easy access to database for the users who are not qualified in IT.
+## Natural Language to Sql
+Purpose of this tool to make an **easy access to database** for the users **who are not qualified** in IT.
 An SQL - might seem a self-explanatory for an IT engineer. But still too strict for an ordinary office worker.
 
 Advantages
@@ -9,7 +10,7 @@ Advantages
 - **any language** can be implemented
 - easy connection with voice **assistants** (Google assistant, Amazon Alexa)
 
-##Some queries
+## Some queries
 ```
 get users
 find all orders
@@ -20,7 +21,7 @@ first user
 last order
 last 3 orders
 ```
-#####SELECT
+##### SELECT
 ```
 search
 show  
@@ -43,7 +44,7 @@ with
 	
 ```
 
-##TODO
+## TODO
 - Resolving foreign keys
 - Single record view
 - Saving favorite queries
